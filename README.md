@@ -1,2 +1,2 @@
 # pvs_mainpage
-PonyvilleSquare Main webpage by mys7icfox http://ponyvillesquare.com
+PonyvilleSquare MineLittlePony Minecraft server webpage by mys7icfox http://ponyvillesquare.com (server is now closed)
